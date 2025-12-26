@@ -1,8 +1,0 @@
-# Ignore virtual environment
-/env/
-
-# Ignore pychache
-/__pycache__/
-
-# Ignore .vscode
-/.vscode/
