@@ -2,6 +2,16 @@
 
 AutoLeet is a command-line tool entirely written in V that automatically synchronizes your accepted LeetCode solutions to a GitHub repository, turning your problem-solving history into a clean, organized, and continuously updated portfolio. Designed for developers who want to showcase consistency, language versatility, and algorithmic practice, AutoLeet removes the manual work of copying solutions, writing problem descriptions, and organizing repositories. Once configured, a single command keeps your GitHub repo in sync with your LeetCode progress.
 
+## Installation
+
+```bash
+git clone
+cd auto-leet
+make
+```
+
+This will generate the binary in the `/bin` folder. You can then add the executable to your path variable.
+
 ## Required Accounts, Tokens, and Repository (Manual Step)
 
 Before running AutoLeet, you must manually gather all required credentials and create a GitHub repository.
